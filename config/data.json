@@ -1,13 +1,13 @@
 {
-    "ShortName": "Anibal Guerra",
-    "Name": "Anibal Jose Guerra Zapata",
-    "Phone": "3186875411",
-    "Email": "inganibalguerra@gmail.com",
-    "BirthdayDate": "1996-07-30",
+    "ShortName": "Andrea García",
+    "Name": "Andrea Marcela García García",
+    "Phone": "3178051068",
+    "Email": "ingandreamarcelagarcia@hotmail.com",
+    "BirthdayDate": "1995-06-04",
     "City": "Valledupar - Cesar",
     "Country": "Colombia",
     "About": {
-        "Title": "Ingeniero de sistemas con 3 años de experiencia certificada como desarrollador de software",
+        "Title": "Ingeniera de sistemas con 1 año de experiencia certificada como desarrollador de software",
         "Description": "Soy una persona proactiva, dinámica, con habilidad para manejo de personal, capacidad de análisis, iniciativa, dispuesto a escuchar y a trabajar en equipo, a trabajar bajo presión y a interrelacionarme con miembros de diferentes niveles jerárquicos.\nIngeniero de Sistemas, con amplios conocimientos en el desarrollo de aplicaciones Web, Móviles y de Escritorio, basadas en las mejores arquitecturas y calidad de software. Manejo los siguientes lenguajes de programación y herramientas de trabajo: .net (c#, vb.net), Javascript, C/C++, AngularJS, Angular8, Jquery, Java, Android Studio, PHP, Laravel, Node.js, Sails.js, MySql, Sql Server, Oracle, Mongo DB, SCRUM, Git, Jenkins, Internet Information Server (IIS), Azure DevOps, Integración Continua y Slack; adicionalmente me desempeño como Desarrollador e ingeniero de Tester y QA, razón por la que continuamente me encuentro aprendiendo paradigmas de programación y diseñando arquitecturas de software que prometan alcanzar estándares de calidad."
     },
     "SocialNetworks": [
