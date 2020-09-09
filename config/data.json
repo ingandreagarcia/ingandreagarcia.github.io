@@ -6,30 +6,26 @@
     "BirthdayDate": "1995-06-04",
     "City": "Valledupar - Cesar",
     "Country": "Colombia",
+    "HideCopyrigth": "true",
     "About": {
-        "Title": "Ingeniera de sistemas con 1 año de experiencia certificada como desarrollador de software",
-        "Description": "Soy una persona proactiva, dinámica, con habilidad para manejo de personal, capacidad de análisis, iniciativa, dispuesto a escuchar y a trabajar en equipo, a trabajar bajo presión y a interrelacionarme con miembros de diferentes niveles jerárquicos.\nIngeniero de Sistemas, con amplios conocimientos en el desarrollo de aplicaciones Web, Móviles y de Escritorio, basadas en las mejores arquitecturas y calidad de software. Manejo los siguientes lenguajes de programación y herramientas de trabajo: .net (c#, vb.net), Javascript, C/C++, AngularJS, Angular8, Jquery, Java, Android Studio, PHP, Laravel, Node.js, Sails.js, MySql, Sql Server, Oracle, Mongo DB, SCRUM, Git, Jenkins, Internet Information Server (IIS), Azure DevOps, Integración Continua y Slack; adicionalmente me desempeño como Desarrollador e ingeniero de Tester y QA, razón por la que continuamente me encuentro aprendiendo paradigmas de programación y diseñando arquitecturas de software que prometan alcanzar estándares de calidad."
+        "Title": "Ingeniera de sistemas con 2 años de experiencia certificada como desarrollador de software",
+        "Description": "Soy una persona con aptitud hacia el liderazgo, con habilidad para la resolución de problemas de forma rápida, capacitada para trabajar en equipo y bajo presión. Me desempeño como analista de sistemas y desarrollador web, por lo tanto, trabajo desde el frontend hasta el backend haciendo uso de las herramientas tecnológicas necesarias para la planeación, análisis, diseño y desarrollo de software, dichas herramientas de trabajo son: Php, Laravel, MySql, Sql Server, Angularjs, Angular, Javascript, C/C++, Jquery, Node.js, Oracle, Scrum, Git, Azure DevOps, Wordpress, Joomla, Moodle, html5, Ajax, Json, Apis Rest, Css."
     },
     "SocialNetworks": [
         {
-            "Name": "Facebook",
-            "Icon": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico",
-            "ProfileUrl": "https://www.facebook.com/AnibalDoctor"
-        },
-        {
             "Name": "Instagram",
             "Icon": "https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png",
-            "ProfileUrl": "https://www.instagram.com/anibalguerraz"
+            "ProfileUrl": "https://www.instagram.com/andree_garciag"
         },
         {
             "Name": "LinkedIn",
             "Icon": "https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico",
-            "ProfileUrl": "https://www.linkedin.com/in/anibal-jose-guerra-zapata-2673a610a"
+            "ProfileUrl": "https://www.linkedin.com/in/andrea-garcia-garcia/"
         },
         {
             "Name": "Github",
             "Icon": "https://github.githubassets.com/pinned-octocat.svg",
-            "ProfileUrl": "https://github.com/inganibalguerra"
+            "ProfileUrl": "https://github.com/ingandreagarcia"
         }
     ],
     "Languages": [
@@ -44,104 +40,65 @@
     ],
     "Education": [
         {
-            "Title": "Especialización En Ingenieria De Software",
+            "Title": "Ingeniera De Sistemas",
             "Entity": "Universidad Popular Del Cesar",
             "Dates": {
-                "Start": "2020-01",
-                "End": null
+                "Start": "2013-02",
+                "End": "2019-02"
             },
             "Icon":"https://www.unicesar.edu.co/templates/rt_fresco/images/community-a/logo/logo.png"
         },
-        {
-            "Title": "Ingeniero De Sistemas",
-            "Entity": "Universidad Popular Del Cesar",
+          {
+            "Title": "Tecnología en Desarrollo de Aplicaciones Web",
+            "Entity": "Universidad De Cundinamarca",
             "Dates": {
-                "Start": "2013-01",
+                "Start": "2017-01",
                 "End": "2017-02"
             },
-            "Icon":"https://www.unicesar.edu.co/templates/rt_fresco/images/community-a/logo/logo.png"
+            "Icon":"https://www.ucundinamarca.edu.co/images/iconos/favicon2019.png"
         }
     ],
     "Experiences": [
         {
-            "Name": "IPCOM Colombia S.A.S",
-            "JobTitle": "Ingeniero Desarrollador",
-            "Description": "Análisis de procesos, requerimientos, diseño, programación, pruebas y documentación de software dentro de las políticas, practicas, técnicas, herramientas y metodologías de fabricación de software definidas por IPCOM Colombia S.A.S.\n Administrar el proceso de CI/CD (Integración continua / Despliegue Continuo) implementando kubernets alojados en una plataforma en la nube (AWS,GCP,Azure, etc...).",
+            "Name": "INSOFTAR S.A.S",
+            "JobTitle": "Ingeniera Desarrollador Fullstack",
+            "Description": "Programación y pruebas de software dentro de las políticas, practicas, técnicas, herramientas y metodologías de fabricación de software definidas por INSOFTAR S.A.S.",
             "Dates": {
-                "Start": "2020-06-01",
+                "Start": "2020-02-10",
                 "End": null
             },
-            "Icon":"https://secureservercdn.net/198.71.233.184/60a.d55.myftpupload.com/wp-content/themes/ipcom/assets/images/logo.svg"
+            "Icon":"https://www.insoftar.com/img/favicon.ico"
         },
         {
-            "Name": "B&A Systems S.A.S",
-            "JobTitle": "Ingeniero Desarrollador",
-            "Description": "Análisis de procesos, requerimientos, diseño, programación, pruebas y documentación de software dentro de las políticas, practicas, técnicas, herramientas y metodologías de fabricación de software definidas por B&A Systems.",
+            "Name": "Conntraloría Municipal De Valledupar",
+            "JobTitle": "Ingeniera De Sistemas",
+            "Description": "Análisis de procesos, requerimientos, diseño, programación, pruebas y documentación de software contemplando las políticas definidas por la entidad y las herramientas a disposición.\n Configuración y administración de los servidores en la nube, dispositivos electrónicos como computadores, video-beams, cámaras de seguridad, entre otros. \n Análisis, clasificación y segmentación de bases de datos de información para auditorías.\n Adicionalmente administración de plataformas gubernamentales (SIGEP, SIA MISIONAL, SIA OBSERVA)",
             "Dates": {
-                "Start": "2017-03-01",
-                "End": "2020-02-29"
+                "Start": "2019-02-01",
+                "End": "2019-12-25"
             },
-            "Icon":"https://www.byasystems.com.co/images/favicon.ico"
-        },
-        {
-            "Name": "Universidad Popular Del Cesar",
-            "JobTitle": "Monitor de salones",
-            "Description": "Brindar atención a los docentes de la institución suministrando las herramientas necesarias para que sus clases se desarrollen sin problemas, para ello administraba los diferentes dispositivos tecnologicos de los salones de clase como Computadores, Video-Beams, etc...\n Ademas realizaba mantemiento de equipos de computos a nivel de hardware y software.",
-            "Dates": {
-                "Start": "2016-03",
-                "End": "2026-06"
-            },
-            "Icon":"https://www.unicesar.edu.co/templates/rt_fresco/images/community-a/logo/logo.png"
-        },
-        {
-            "Name": "Fundación Festival De La Leyenda Vallenata",
-            "JobTitle": "Digitador",
-            "Description": "Cada año la Fundación Festival de la Leyenda Vallenata realiza en abril el evento durante 6 dias en los cuales se realizan diferentes concursos en el ambito vallenato, por tanto he tenido la oportunidad desde 2016 hasta 2019 de digitalizar las puntuaciones de los concursos de acordeoneros.",
-            "Dates": {
-                "Start": "2016-04",
-                "End": "2019-04"
-            },
-            "Icon":"https://festivalvallenato.com/wp-content/uploads/2019/03/cropped-icon-150x150.png"
+            "Icon":"http://contraloriavalledupar.gov.co/images/logo-CMV/Nuevo_LCMV.ico"
         }
     ],
     "Achievements": "Tesis Meritoria - Universidad Popular Del Cesar",
     "Skills": [
         {
-            "Name": "Angular 9+",
-            "Percentage": 100
-        },
-        {
-            "Name": "C#",
+            "Name": "Angular 8+",
             "Percentage": 100
         },
         {
             "Name": "PHP - Laravel",
-            "Percentage": 98
-        },
-        {
-            "Name": "Go",
-            "Percentage": 85
+            "Percentage": 100
         },
         {
             "Name": "Azure DevOps",
-            "Percentage": 85
-        },
-        {
-            "Name": "Vue",
-            "Percentage": 80
+            "Percentage": 30
         },
         {
             "Name": "Docker",
-            "Percentage": 70
+            "Percentage": 30
         },
-        {
-            "Name": "Google Cloud Platform",
-            "Percentage": 25
-        },
-        {
-            "Name": "Kubernetes",
-            "Percentage": 20
-        }
+    
     ],
-    "OtherSkills": ["Clean Architecture","Design Patterns","Solid","AngularJs","Jquery","Unit Testing","Mysql","CI/CD","Postgres","Sql Server","Jenkins","Oracle","Android Studio","SCRUM","Jira","Internet Information Server (IIS)","Git","Node.js","TypeScript","JavaScript","Java"]
+    "OtherSkills": ["Design Patterns","Solid","AngularJs","Jquery","Mysql","Postgres","Sql Server","Oracle","SCRUM","Jira","Git","TypeScript","JavaScript","PHP","Laravel"]
 }
