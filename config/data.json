@@ -97,7 +97,7 @@
         {
             "Name": "Docker",
             "Percentage": 30
-        },
+        }
     
     ],
     "OtherSkills": ["Design Patterns","Solid","AngularJs","Jquery","Mysql","Postgres","Sql Server","Oracle","SCRUM","Jira","Git","TypeScript","JavaScript","PHP","Laravel"]
