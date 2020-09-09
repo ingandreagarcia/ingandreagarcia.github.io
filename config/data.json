@@ -6,7 +6,7 @@
     "BirthdayDate": "1995-06-04",
     "City": "Valledupar - Cesar",
     "Country": "Colombia",
-    "HideCopyrigth": "true",
+    "HideCopyrigth": true,
     "About": {
         "Title": "Ingeniera de sistemas con 2 años de experiencia certificada como desarrollador de software",
         "Description": "Soy una persona con aptitud hacia el liderazgo, con habilidad para la resolución de problemas de forma rápida, capacitada para trabajar en equipo y bajo presión. Me desempeño como analista de sistemas y desarrollador web, por lo tanto, trabajo desde el frontend hasta el backend haciendo uso de las herramientas tecnológicas necesarias para la planeación, análisis, diseño y desarrollo de software, dichas herramientas de trabajo son: Php, Laravel, MySql, Sql Server, Angularjs, Angular, Javascript, C/C++, Jquery, Node.js, Oracle, Scrum, Git, Azure DevOps, Wordpress, Joomla, Moodle, html5, Ajax, Json, Apis Rest, Css."
