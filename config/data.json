@@ -105,18 +105,26 @@
             "Percentage": 100
         },
          {
-            "Name": "Yii",
+            "Name": "PHP - Yii",
             "Percentage": 50
         },
         {
-            "Name": "Azure DevOps",
-            "Percentage": 30
+            "Name": "Mysql",
+            "Percentage": 100
         },
         {
-            "Name": "Docker",
-            "Percentage": 30
+            "Name": "Sql Server",
+            "Percentage": 50
+        },
+        {
+            "nmae": "JavaScript",
+             "Percentage": 60
+        },
+        {
+            "nmae": "Docker",
+             "Percentage": 30
         }
     
     ],
-    "OtherSkills": ["Design Patterns","Solid","AngularJs","Jquery","Mysql","Postgres","Sql Server","Oracle","SCRUM","Jira","Git","TypeScript","JavaScript","PHP","Laravel"]
+    "OtherSkills": ["Design Patterns","Solid","Html","Css","Azure DevOps","Postgres","Oracle","SCRUM","Jira","Taiga","Git","TypeScript","Jquery","Apis Rest","Ayax","Wordpress","Joomla","Moodle"]
 }
