@@ -78,6 +78,16 @@
                 "End": "2019-12-25"
             },
             "Icon":"http://contraloriavalledupar.gov.co/images/logo-CMV/Nuevo_LCMV.ico"
+        },
+        {
+            "Name": "Servitour Del Caribe",
+            "JobTitle": "Ingeniera De Sistemas",
+            "Description": "Análisis de procesos, requerimientos, diseño, programación, pruebas y documentación de software contemplando las necesidades de la entidad.\n Configuración y administración de los servidores en la nube y el sitio web costruido.",
+            "Dates": {
+                "Start": "2018-06-01",
+                "End": "2018-10-01"
+            },
+            "Icon":""
         }
     ],
     "Achievements": "Tesis Meritoria - Universidad Popular Del Cesar",
@@ -86,9 +96,17 @@
             "Name": "Angular 8+",
             "Percentage": 100
         },
+         {
+            "Name": "Angularjs",
+            "Percentage": 100
+        },
         {
             "Name": "PHP - Laravel",
             "Percentage": 100
+        },
+         {
+            "Name": "Yii",
+            "Percentage": 50
         },
         {
             "Name": "Azure DevOps",
