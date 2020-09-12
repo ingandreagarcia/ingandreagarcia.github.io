@@ -104,24 +104,24 @@
             "Name": "PHP - Laravel",
             "Percentage": 100
         },
-         {
-            "Name": "PHP - Yii",
-            "Percentage": 50
-        },
         {
             "Name": "Mysql",
             "Percentage": 100
+        },
+        {
+            "Name": "JavaScript",
+             "Percentage": 60
+        },
+        {
+            "Name": "PHP - Yii",
+            "Percentage": 50
         },
         {
             "Name": "Sql Server",
             "Percentage": 50
         },
         {
-            "nmae": "JavaScript",
-             "Percentage": 60
-        },
-        {
-            "nmae": "Docker",
+            "Name": "Docker",
              "Percentage": 30
         }
     
